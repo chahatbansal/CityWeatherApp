@@ -10,3 +10,7 @@ Start Page that shows temperature of my city:
 Click the button to search for the required city:
 
 <img width="1434" alt="IMG2" src="https://user-images.githubusercontent.com/32437089/120842280-1eeded00-c58a-11eb-9849-db9ba6c9d12f.png">
+
+Below is the weather temperature for the choosen city:
+
+<img width="1438" alt="IMG3" src="https://user-images.githubusercontent.com/32437089/120842450-52307c00-c58a-11eb-89f9-47a929fa3310.png">
