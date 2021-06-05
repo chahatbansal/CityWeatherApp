@@ -27,7 +27,7 @@ const SelectCity = (props) => {
 				centered
 				autoFocus={false}>
 				<Modal.Header >
-					<Modal.Title>Enter Name of the City</Modal.Title>
+					<Modal.Title>Enter the City Name</Modal.Title>
 				</Modal.Header>
 				<Modal.Body>
 					<input
